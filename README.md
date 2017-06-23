@@ -13,7 +13,7 @@ compatible with the classes in the list
 * Run Greedy deterministic on the items with the outputted list of classes
 * Repeat
 3. Brute-Force Randomized:
-Algorithm:
+#### Algorithm:
 * Randomly pick N-items from the list of all items [N~10-27]
 vValidate that the items are compatible with each other; else pick again
 * Brute-force by finding the powerset of the items and trying every combination
